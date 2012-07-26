@@ -1,12 +1,13 @@
-#Thu Sep 07 16:41:45 EDT 2006
+#Wed Jul 25 20:48:06 EDT 2012
 framework.plugin.tray.minimize-to-tray=true
 framework.plugin.tray.clicks-to-restore=2
 framework.window.maximized=true
+framework.plugin.tray.show-icon=true
 framework.plugin.tray.close-to-tray=true
-framework.window.h=1050
+framework.window.h=1026
 module.cleanup.queue-size=0
 framework.plugin.tray.enabled=true
 module.cleanup.entry.0=plugins\\framework_tray.jar
-framework.window.y=0
-framework.window.x=0
-framework.window.w=1680
+framework.window.y=-8
+framework.window.x=-8
+framework.window.w=1696
